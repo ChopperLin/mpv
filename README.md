@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![http://mpv.io/](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png)
 
 ## mpv
@@ -203,3 +204,7 @@ only if discretion is required.
 
 
 Mostly GPLv2 or later. See [details.](https://github.com/mpv-player/mpv/blob/master/Copyright)
+=======
+# mpv
+mpv for test
+>>>>>>> 3c7a29ee91259b8c7d3239472fb3772c30ed43f0
